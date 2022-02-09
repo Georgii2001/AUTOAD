@@ -1,0 +1,10 @@
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\obj\Debug\AutoAdModel.csprojAssemblyReference.cache
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\obj\Debug\AutoAdModel.csproj.CoreCompileInputs.cache
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\bin\Debug\AUTOAD.dll.config
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\bin\Debug\AUTOAD.dll
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\bin\Debug\AUTOAD.pdb
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\obj\Debug\AUTOAD.dll
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\obj\Debug\AUTOAD.pdb
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\bin\Debug\Newtonsoft.Json.dll
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\bin\Debug\Newtonsoft.Json.xml
+D:\UPIT\II\MIP\AUTOAD\AUTOAD\AUTOAD\obj\Debug\AutoAdModel.csproj.CopyComplete
